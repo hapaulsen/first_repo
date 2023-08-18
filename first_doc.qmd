@@ -1,7 +1,9 @@
 ---
-title: "first_doc"
+title: "Mitt første Quarto dokument"
+author: Haakon Alne Paulsen
 format: html
 editor: visual
+keep-tex: true
 ---
 
 ## Quarto
@@ -41,4 +43,8 @@ plot(cars)
 plot(cars)
 ```
 
-Mitt første plot er vist i
+Mitt første plot er vist i @fig-firstPlot
+
+@wickham2019
+
+
